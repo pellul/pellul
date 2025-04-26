@@ -1,5 +1,7 @@
 # Hi, I'm pellul
 
+### 🇬🇧 🇯🇵 🇫🇷
+
 ## About me　プロフィール　À mon sujet
 
 I'm a web developer and a bit of a dabbler.
@@ -8,14 +10,16 @@ In my free time, I'm mainly focusing on my first game prototype, which is curren
 
 ## Skills　能力　Compétences
 
+
+![](https://skillicons.dev/icons?i=linux&theme=light) ![](https://skillicons.dev/icons?i=git&theme=light) ![](https://skillicons.dev/icons?i=postgresql&theme=light) ![](https://skillicons.dev/icons?i=python&theme=light) ![](https://skillicons.dev/icons?i=javascript&theme=light)
+
 - Writing to-do lists
 - Expert at not finishing the tasks I wrote
 
-Languages: 🇬🇧 🇫🇷 🇯🇵
 
 ## Socials　SNS　Réseaux Sociaux 
 
-[![Stack Overflow](https://stackoverflow.com/users/flair/5898496.png?theme=dark)](https://stackoverflow.com/users/5898496/pellul)
+[![Stack Overflow](https://stackoverflow.com/users/flair/5898496.png?theme=dark)](https://stackoverflow.com/u/5898496)
 
 
 ## ♥️ Games　お気に入りゲームソフト　Jeux
