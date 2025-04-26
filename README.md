@@ -14,3 +14,10 @@ In my free time, I'm mainly focusing on my first game prototype, which is curren
 
 - Expert at not finishing tasks
 
+
+## Games
+
+![](./img/niera.webp) ![](./img/nierr.webp) ![](./img/kdcII.webp)
+![](./img/hk.webp) ![](./img/bg3.webp) ![](./img/slaythespire.webp)
+![](./img/oot.webp) ![](./img/oblivion.webp) ![](./img/ssbm.webp)
+![](./img/lotr-return-of-the-king.webp) ![](./img/crash.webp) ![](./img/lotro.webp)
