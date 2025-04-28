@@ -4,7 +4,7 @@
 
 ## About me　プロフィール　À mon sujet
 
-I'm a web developer and a bit of a dabbler.
+I'm a web developer
 
 In my free time, I'm mainly focusing on my first game prototype, which is currently untitled.
 
